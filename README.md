@@ -5,7 +5,7 @@ It makes a separate lang file from "name" and "description" properties of quests
 
 Usage: 
 
-''QuestConverter.exe "path to your DefaultQuests.json"''
+```QuestConverter.exe "path to your DefaultQuests.json"```
 
 Then it asks for two filenames one for the lang file(default is en_US.lang) and one for the new localized DefaultQuests.json(default is DefaultQuests.json).
   
